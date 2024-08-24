@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WebEdu_LocalVersion_YuQin": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64798;http://localhost:64799"
+    }
+  }
+}
